@@ -1,0 +1,20 @@
+{
+  "name": "react_minesweeper",
+  "version": "1.0.0",
+  "description": "react minseweeper project in CodeAcademy class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Mainfram3Web.com/REACT_minesweeper"
+  },
+  "author": "Anthony Daddario",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
